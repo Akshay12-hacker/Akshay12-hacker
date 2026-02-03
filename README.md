@@ -107,12 +107,14 @@ I’m here to become **dangerously competent**.
 *(Everything else gets added only when earned.)*
 
 ---
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Akshay12-hacker&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/> ![](https://nirzak-streak-stats.vercel.app/?user=Akshay12-hacker&theme=dark&hide_border=false)<br/> ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Akshay12-hacker&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact) 
 
-## 📊 GitHub Stats
+## 🏆 GitHub Trophies 
+![](https://github-profile-trophy.vercel.app/?username=Akshay12-hacker&theme=onedark&no-frame=false&no-bg=false&margin-w=4) 
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Akshay12-hacker&theme=dark)
-![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=Akshay12-hacker&theme=dark)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Akshay12-hacker&theme=dark&layout=compact)
+### 🔝 Top Contributed Repo 
+![](https://github-contributor-stats.vercel.app/api?username=Akshay12-hacker&limit=5&theme=default&combine_all_yearly_contributions=true) 
 
 ---
 
