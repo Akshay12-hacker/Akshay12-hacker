@@ -1,90 +1,129 @@
-# 💫 About Me:
-<h1 align="center">👋 Hey there, I'm Akshay (aka Zyrus)</h1>
+# 👋 Hi, I’m Akshay — aka **Zyrus**
 
-<p align="center">
-  🚀 Developer | 🔐 Ethical Hacker | 🤖 AI Explorer | 🎮 Gamification Geek
-</p>
+🛡️ Cybersecurity Learner | 🧑‍💻 Backend Developer | 🧠 Systems Thinker
 
 ---
 
-🎓 **B.Tech Student at Sage University, Bhopal**  
-💡 I’m passionate about tech, security, and automation. I love building, breaking (ethically), and learning new things daily.
+## 🎓 About Me
+
+I’m a **B.Tech student at Sage University, Bhopal**, focused on **security-first development**, backend systems, and understanding how software *actually breaks* — not just how to build it.
+
+I don’t chase buzzwords.  
+I chase **depth, fundamentals, and real competence**.
 
 ---
 
-## 🛠️ What I Do
+## 🔍 What I Actually Do
 
-- 💻 Backend Developer: `Python`, `C`, `Node.js`
-- 🔐 Ethical Hacker & CTF Player: `Kali Linux`, `OSINT`, `Wi-Fi Pentesting`
-- 🤖 AI & Automation Enthusiast: Building assistants, automating workflows
-- 🎮 Education Gamifier: Making study fun with boss battles & level-ups
-- 📹 YouTube Creator: Tech, Cybersecurity & Productivity content
+### 🔐 Cybersecurity & Ethical Hacking
+- Linux (Kali / Ubuntu)
+- Networking fundamentals
+- Wi-Fi security basics
+- OSINT & CTF-style problem solving
+- Studying real-world failure points: logic flaws, misconfigs, permissions
 
----
+### 💻 Backend Development
+- Python (primary)
+- C (systems-level understanding)
+- Node.js for APIs & backend workflows
+- Auth systems, controllers, services, role-based access
 
-## 🚧 Projects I'm Working On
-
-- 🖧 **LAN Chat System** – With GUI, group chat & file transfer
-- 🤖 **Cybersecurity Assistant** – AI-based hacking automation
-- 🧠 **Gamified Learning Web App** – Boss fights = Subjects, XP = Progress
-- 🗺️ **New City Guide App** – Team project (Backend role)
-- 📞 **Video Calling App** – Real-time video chat in progress
-
----
-
-## 🔒 Security Goals
-
-- 📱 Secure Android apps (reverse engineering, hardening)
-- 🛡️ Build my own OS (Inspired by Maya OS – India’s secure OS)
-- 🎯 Land a role at **CrowdStrike** or other top security firms
+### 🤖 Automation & Security Tooling
+- Practical automation scripts
+- Early-stage AI-assisted security workflows  
+  *(learning-first, not hype-driven)*
 
 ---
 
-## 🧠 Learning Focus
+## 🧪 Projects
 
-- 💡 Problem Solving (LeetCode, DSA, logic building)
-- 🧑‍💻 Core Dev Skills – Mastering Python & C
-- 🗣️ Communication & Personal Branding
-- 🧠 Psychology + Strategy (Books by Robert Greene)
+### 🖧 LAN Chat System
+- File transfer
+- Active vs disconnected user tracking
+- Focus: networking logic & reliability
 
----
+### 🧠 NeuroSec (Work in Progress)
+- AI-assisted cybersecurity helper
+- Goal: learning support & analysis  
+- **Not** “auto-hacking” nonsense
 
-## 📚 Currently Reading
-
-- *The 48 Laws of Power* – Robert Greene  
-- *The Laws of Human Nature* – Robert Greene
-
----
-
-## 🌐 Let’s Connect!
-
-- 💬 Open for collabs: security tools, automation, open-source
-- 🤝 Building a community of learners and doers
-- 🧠 Motto: *Build. Break. Learn. Repeat.*
+> I prefer **fewer projects with real depth** over dozens of shallow demos.
 
 ---
 
+## 🎯 Long-Term Direction
 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/akkshay.05?igsh=MWpIMHZxbDBrdjV6Mw==) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/akshay-rahangdale-262542304/) 
+- Become a **Security Engineer / Security-focused Developer**
+- Strong foundations in:
+  - Operating Systems
+  - Computer Networks
+  - Backend Architecture
+- Target organizations: **CrowdStrike** & security-driven companies
 
-# 💻 Tech Stack:
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Akshay12-hacker&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Akshay12-hacker&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Akshay12-hacker&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Akshay12-hacker&theme=onedark&no-frame=false&no-bg=false&margin-w=4)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Akshay12-hacker&limit=5&theme=default&combine_all_yearly_contributions=true)
+No shortcuts. No fake expertise.
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Akshay12-hacker&icon=0&color=0)](https://visitcount.itsvg.in)
 
-  ## 💰 You can help me by Donating
-  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/akksahy.05) [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/ARahangdale384) 
+## 📚 Current Learning Focus
 
-  
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+- Core CS: OS, Networks, DSA (slow & deliberate)
+- Problem-solving: logic > memorization
+- Security mindset: threat modeling & attacker thinking
+- Psychology & strategy:
+  - *The 48 Laws of Power*
+  - *The Laws of Human Nature* — Robert Greene
+
+---
+
+## 🧠 Philosophy
+
+> **Understand systems deeply.  
+> Break them ethically.  
+> Build them stronger.**
+
+I’m not here to look impressive.  
+I’m here to become **dangerously competent**.
+
+---
+
+## 💻 Tech I Actually Use
+
+### Languages
+- Python
+- JavaScript
+- Java
+
+### Backend & Databases
+- Node.js
+- Flask
+- MongoDB
+- MySQL
+
+### OS & Security
+- Linux
+- Kali Linux
+- Networking fundamentals
+
+*(Everything else gets added only when earned.)*
+
+---
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Akshay12-hacker&theme=dark)
+![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=Akshay12-hacker&theme=dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Akshay12-hacker&theme=dark&layout=compact)
+
+---
+
+## 🌐 Connect
+
+- Serious collaborations only (security tools, backend systems)
+- Building a **small, focused** learning community
+
+- Instagram: https://www.instagram.com/akkshay.05  
+- LinkedIn: https://www.linkedin.com/in/akshay-rahangdale-262542304/
+
+---
+
+⭐ If you’re here to learn deeply, build properly, and avoid shortcuts — you’ll fit in.
